@@ -17,4 +17,4 @@ The algorithm is implemented in C
 
 The Merge sort algorithm sorts the array in ascending order
 
-THe algorithm is implemented in C
+The algorithm is implemented in C
